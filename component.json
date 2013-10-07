@@ -1,0 +1,13 @@
+{
+  "name": "fira-mono-bold",
+  "repo": "typefaces/fira-mono-bold",
+  "description": "The Fira Mono Bold typeface.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": ["index.css"],
+  "fonts": [
+    "fonts/fira-mono-bold.eot",
+    "fonts/fira-mono-bold.ttf",
+    "fonts/fira-mono-bold.woff"
+  ]
+}

@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Fira Mono';
+  src: url('fonts/fira-mono-bold.eot');
+  src: url('fonts/fira-mono-bold.eot?#iefix') format('embedded-opentype'),
+       url('fonts/fira-mono-bold.woff') format('woff'),
+       url('fonts/fira-mono-bold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
